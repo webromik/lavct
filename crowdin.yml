@@ -1,0 +1,8 @@
+files:
+  - source: /Streetbees/Resources/Localizations/Base.*/*
+    translation: >-
+      /Streetbees/Resources/Localizations/%osx_code%/%file_name%.%file_extension%
+    languages_mapping:
+      osx_code:
+        pt-BR: pt-BR.lproj
+        fa: fa-IR.lproj
