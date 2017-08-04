@@ -14,7 +14,7 @@
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>one</key>
-        <string>%d min</string>
+        <string>%d min111111111</string>
         <key>few</key>
         <string>%d mins</string>
         <key>other</key>
