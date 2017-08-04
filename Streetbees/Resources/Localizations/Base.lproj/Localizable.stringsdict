@@ -13,7 +13,7 @@
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>one</key>
-			<string>%d min1</string>
+			<string>%d min111111111</string>
 			<key>other</key>
 			<string>%d mins</string>
 		</dict>
