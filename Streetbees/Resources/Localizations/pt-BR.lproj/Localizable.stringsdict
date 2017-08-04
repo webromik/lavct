@@ -3,10 +3,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>project_duration</key>
+    <key>project_duration_plural</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@mins@ ff</string>
+      <string>%#@mins@</string>
       <key>mins</key>
       <dict>
         <key>NSStringFormatValueTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>one</key>
-        <string>%d min sdfgfsd</string>
+        <string>%d min</string>
         <key>other</key>
-        <string>%d min sdfgfsd2222222</string>
+        <string>%d mins</string>
       </dict>
     </dict>
   </dict>
