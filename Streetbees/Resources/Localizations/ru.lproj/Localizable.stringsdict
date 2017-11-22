@@ -15,6 +15,8 @@
         <string>NSStringPluralRuleType</string>
         <key>one</key>
         <string>%d min111111111</string>
+        <key>few</key>
+        <string>%d mins</string>
         <key>other</key>
         <string>%d mins</string>
       </dict>
