@@ -1,4 +1,8 @@
 pt-BR:
+  date:
+    abbr_month_names:
+      - Janeiro
+      - Fevereiro
   number:
     currency:
       format:
