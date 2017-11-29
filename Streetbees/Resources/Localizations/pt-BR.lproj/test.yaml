@@ -34,7 +34,7 @@ pt-BR:
       long: "%B %d, %Y"
       short: "%b %d"
     month_names:
-      - [ ]
+      -
       - January
       - February
       - March

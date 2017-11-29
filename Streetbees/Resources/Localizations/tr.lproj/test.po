@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test11111122\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-25 00:30+0300\n"
+"PO-Revision-Date: 2017-11-29 05:46-0500\n"
+"Last-Translator: romiko <romanolih@gmail.com>\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: test11111122\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /master/Streetbees/Resources/Localizations/Base.lproj/test.po\n"
+"Language: tr_TR\n"
+
+#: app/modules/frontend/views/us-states/time.volt:61
+msgid "Current time in %location%"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:69
+msgid "AM/PM"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:70
+msgid "24 hours"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:75
+#: app/modules/frontend/views/us-states/time.volt:185
+msgid "Time difference to GMT/UTC"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:79
+msgid "Standard time:"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:82
+#: app/modules/frontend/views/us-states/time.volt:208
+msgid "No UTC/GMT offset"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:90
+#: app/modules/frontend/views/us-states/time.volt:216
+msgid "Daylight saving time:"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:93
+#: app/modules/frontend/views/us-states/time.volt:219
+msgid "No daylight saving time at the moment"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:98
+#: app/modules/frontend/views/us-states/time.volt:224
+msgid "Current time zone offset:"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:102
+#: app/modules/frontend/views/us-states/time.volt:228
+msgid "Time zone abbreviation:"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:109
+#: app/modules/frontend/views/us-states/time.volt:240
+msgid "Daylight Saving Time %year% (Summer Time)"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:116
+#: app/modules/frontend/views/us-states/time.volt:126
+msgid "DST started on %date% %location% standard time"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:119
+#: app/modules/frontend/views/us-states/time.volt:123
+msgid "DST ends on %date% %location% daylight time"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:130
+#: app/modules/frontend/views/us-states/time.volt:274
+msgid "No known DST-adjustments for year %year%"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:136
+#: app/modules/frontend/views/us-states/time.volt:282
+msgid "Major cities of %location%"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:148
+msgid "Current time in all %location% time zones"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:153
+msgid "Time Zone"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:154
+#: app/modules/frontend/views/us-states/time.volt:189
+#: app/modules/frontend/views/us-states/time.volt:244
+msgid "Cities"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:155
+msgid "Current time"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:190
+msgid "Difference to UTC/GMT"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:79
+#: app/modules/frontend/views/us-states/time.volt:205
+msgid "Standard time zone:"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:245
+msgid "DST Transitions"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:260
+#: app/modules/frontend/views/us-states/time.volt:270
+msgid "DST started on <br>%date%"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:263
+#: app/modules/frontend/views/us-states/time.volt:267
+msgid "DST ends on <br>%date%"
+msgstr ""
+
+#: app/modules/frontend/views/us-states/time.volt:84
+#: app/modules/frontend/views/us-states/time.volt:99
+#: app/modules/frontend/views/us-states/time.volt:210
+#: app/modules/frontend/views/us-states/time.volt:225
+msgid "UTC/GMT %hours% hour"
+msgid_plural "UTC/GMT %hours% hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/modules/frontend/views/us-states/time.volt:91
+#: app/modules/frontend/views/us-states/time.volt:217
+msgid "%hours% hour"
+msgid_plural "%hours% hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%location% local time"
+msgstr ""
+
